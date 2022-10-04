@@ -1,0 +1,15 @@
+
+
+/*4th QUESTION*/
+
+/*
+4. Question :- An almost sorted array is given to us and the task is to sort that array completely. Then,
+               which sorting algorithm would you prefer and why?
+   
+   Answer =>   From my learning right now I can think of insertion sort. 
+               It would be much better suited for almost sorted array,
+               Because this method makes the least number of comparisons. 
+               Here array gets divide into 2 parts while solving left part for sorted and right for unsorted, 
+               Very few elements are left out here and Insertion sort is good for less elements in array. 
+               So that's why I think for sorting larger array we can use other algos but in this case Insertion would be good.
+*/
